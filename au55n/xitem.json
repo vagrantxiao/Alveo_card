@@ -3,10 +3,10 @@
     "items": [
       {
         "infra": {
-          "name": "au280", 
-          "display": "Alveo U280 Data Center Accelerator Card", 
+          "name": "au55n", 
+          "display": "Alveo U55N Data Center Accelerator Card", 
           "revision": "1.0", 
-          "description": "Alveo U280 Data Center Accelerator Card", 
+          "description": "Alveo U55N Data Center Accelerator Card", 
           "company": "xilinx.com", 
           "company_display": "Xilinx", 
           "author": "Vanitha", 
@@ -16,10 +16,11 @@
               "url": "www.xilinx.com"
             }
           ], 
-          "category": "Accelerator Cards/Alveo", 
-          "website": "http://www.xilinx.com/u280", 
+          "category": "Accelerator Cards/Alveo",
+          "logo": "varium_image.jpg",
+          "website": "https://www.xilinx.com/products/accelerators/varium/c1100.html", 
           "search-keywords": [
-            "au280", 
+            "au55n", 
             "xilinx.com", 
             "board", 
             "Accelerator Cards/Alveo"
